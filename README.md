@@ -13,3 +13,5 @@ python ./parse_xml.py --input_path <path_to_xml_folder> --output_path <output.pa
 The renewals dataset, [available](https://github.com/NYPL/cce-renewals) in tab-delimited format, has been aggregated and uploaded as well.
 
 Some exploratory analysis and preliminary results [here](preliminary_analysis.ipynb).
+
+The main matching criteria for out purposes are the registration date and registration number which are provided in both datasets. The registration number alone is not a unique identifier across the datasets.
