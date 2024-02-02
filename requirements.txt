@@ -4,3 +4,4 @@ lxml>=5.0.1
 tqdm>=4.66.1
 datasets
 matplotlib
+fire
